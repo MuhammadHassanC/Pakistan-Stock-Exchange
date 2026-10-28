@@ -38,7 +38,7 @@ A high-performance, web-based stock market prediction and analysis application f
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Shifrozy/Pakistan-Stock-Exchange.git
+git clone https://github.com/MuhammadHassanC/Pakistan-Stock-Exchange.git
 cd Pakistan-Stock-Exchange
 ```
 
@@ -94,4 +94,4 @@ This application is for **educational purposes only**. Stock market investments 
 
 ---
 
-### Developed by [Hassan C](https://github.com/Shifrozy)
+### Developed by [Hassan C](https://github.com/MuhammadHassanC)
